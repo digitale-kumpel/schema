@@ -1,6 +1,6 @@
 {
-  "name": "@nexus/schema",
-  "version": "0.0.0-dripip",
+  "name": "@digitale-kumpel/schema",
+  "version": "0.0.1",
   "description": "Scalable, strongly typed GraphQL schema development",
   "keywords": [
     "graphql",
@@ -9,6 +9,9 @@
     "typescript"
   ],
   "homepage": "https://nexusjs.org/#/components/schema/about",
+  "repository": {
+    "url": "git@github.com:digitale-kumpel/schema.git"
+  },
   "license": "MIT",
   "author": {
     "name": "Tim Griesser",
